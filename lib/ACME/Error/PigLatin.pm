@@ -14,7 +14,7 @@ use Lingua::PigLatin 'piglatin';
 
   use ACME::Error 'PigLatin';
 
-  warn 'Something happened'; #
+  warn 'Something happened'; # omethingSay appenedhay
 
   die 'Oof!'; # Oofway!
 
