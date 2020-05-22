@@ -1,2 +1,2 @@
 # ACME-Error-PigLatin
-die and warn in piglatin
+Output die and warn in piglatin.

@@ -1,0 +1,5 @@
+Revision history for Acme-Error-PigLatin
+
+{{$NEXT}}
+    - Mint with Dist::Zilla.
+    - Copy and tweak code from ACME::Error::SHOUT.
